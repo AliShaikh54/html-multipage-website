@@ -32,13 +32,10 @@ This repository contains a simple multi-page website built using HTML and CSS. T
 ---
 
 ## 📂 Repository Structure
-```yaml
+
 html-multipage-website:
-  - index.html
   - about.html
-  - education.html
-  - skills.html
-  - goals.html
   - contact.html
+  - home.html
   - style.css
   - README.md
