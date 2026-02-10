@@ -1,11 +1,11 @@
 # HTML Multi-Page Website
 
-## 📌 Overview
+## Overview
 This repository contains a simple multi-page website built using HTML and CSS. The purpose of this work is to demonstrate how multiple web pages can be linked together using proper navigation, relative paths, and a shared stylesheet while maintaining a consistent layout across all pages.
 
 ---
 
-## 🎯 Objective
+## Objective
 - Build a simple multi-page website
 - Create and link multiple HTML pages using navigation
 - Use relative paths correctly
@@ -14,7 +14,7 @@ This repository contains a simple multi-page website built using HTML and CSS. T
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5
 - CSS3
 - VS Code
@@ -22,7 +22,7 @@ This repository contains a simple multi-page website built using HTML and CSS. T
 
 ---
 
-## 📦 Concepts Covered
+## Concepts Covered
 - Multi-page website structure
 - Page navigation using anchor links
 - Relative file paths
@@ -31,7 +31,7 @@ This repository contains a simple multi-page website built using HTML and CSS. T
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 html-multipage-website:
   - about.html
